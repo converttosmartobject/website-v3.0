@@ -78,7 +78,7 @@ function draw() {
     //     display text that says 'virus' - rotates on X axis
     textSize(200);
     textFont(myFont);
-    text('no return', 0, 0);
+    text('virus', 0, 0);
     //   display rotating asterisk on top of the center of the word 'virus' - gets drawn over by new spheres that move in front of it
     textSize(300);
     text('*', 0, 0);
